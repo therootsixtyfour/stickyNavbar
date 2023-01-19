@@ -34,7 +34,7 @@ body {
     justify-content: space-between;
     align-items: center;
     box-shadow: 1px 4px 8px rgba(0,0,0,0.3);
-    transition: background-color .4s;
+    transition: background-color .2s;
 }
 
 .navbar ul {
